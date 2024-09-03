@@ -16,7 +16,7 @@ module.exports = {
   ],
   plugins: [
     '@babel/plugin-transform-runtime',
-    '@babel/plugin-proposal-class-properties',
+    '@babel/plugin-transform-class-properties',
     '@babel/plugin-proposal-export-default-from',
   ],
   env: {

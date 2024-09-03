@@ -5,6 +5,7 @@
     <artifactId>UEBuildGraph</artifactId>
     <groupId>com.buildfifteen.teamcity.uebuildgraph</groupId>
     <version>1.0.1</version>
+    <relativePath>..</relativePath>
   </parent>
   <artifactId>build</artifactId>
   <packaging>pom</packaging>
